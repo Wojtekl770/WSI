@@ -51,21 +51,6 @@ Projekt zawiera trzy niezależne silniki rozpoznawania twarzy:
 - MTCNN
 - ResNet, FaceNet, VGG-Face, ArcFace
 
-## 📁 Struktura projektu
-face_recognition/
-├── src/
-│ ├── main.py
-
-│ ├── train.py
-│ ├── test.py
-│ ├── models/
-│ └── ...
-├── data/
-│ ├── lewandowski/
-│ ├── obama/
-│ └── wojtek/
-└── README.md
-
 
 ## 🧪 Etapy działania
 
