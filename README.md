@@ -55,6 +55,7 @@ Projekt zawiera trzy niezależne silniki rozpoznawania twarzy:
 face_recognition/
 ├── src/
 │ ├── main.py
+
 │ ├── train.py
 │ ├── test.py
 │ ├── models/
